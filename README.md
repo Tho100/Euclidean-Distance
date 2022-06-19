@@ -1,8 +1,8 @@
 **Given two vectors with scalars: 
-[x1 = 5 , y1 = 3]
-[x2 = -4 , y2 = 1]**
+A = [x1 = 5 , y1 = 3]
+B = [x2 = -4 , y2 = 1]**
 
-**Our main approach is to calculate the distance between these two vectors**
+**Our main approach is to calculate the distance between vector A and vector B**
 
 # Output
 
